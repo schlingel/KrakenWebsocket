@@ -1,4 +1,4 @@
-[[https://github.com/schlingel/KrakenWebsocket/blob/master/kraken_ng_websocket.gif?raw=true|alt=Simple HTML Example]]
+![Simple HTML Exampl](https://github.com/schlingel/KrakenWebsocket/blob/master/kraken_ng_websocket.gif?raw=true)
 
 # KrakenWebSocketConsumer
 
