@@ -1,3 +1,5 @@
+[[https://github.com/schlingel/KrakenWebsocket/blob/master/kraken_ng_websocket.gif?raw=true|alt=Simple HTML Example]]
+
 # KrakenWebSocketConsumer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
